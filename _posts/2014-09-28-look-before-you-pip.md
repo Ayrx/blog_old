@@ -25,7 +25,7 @@ As a proof of concept, I have written a `setup.py` file that connects to a
 Metasploit listener and downloads a Meterpreter shell during installation.
 This demonstrates that it is *trivial* for someone to execute arbitrary code
 on a machine through the installation of a Python package. You can obtain the
-code from [GitHub](github-repo).
+code from [GitHub](https://github.com/Ayrx/malicious-python-package).
 
 Run the Metasploit listener.
 
@@ -64,7 +64,8 @@ this.
 
 2. If you are in an organization with larger resources, *audit* the
 third-party packages you depend on. Mirror trusted packages on an internal
-[devpi](devpi) server instead of installing packages directly from PyPI.
+[devpi](http://doc.devpi.net/latest/) server instead of installing packages
+directly from PyPI.
 
 While I am limiting the details in this post to Python packages as that is the
 ecosystem I am most familiar with, I believe that this issue also extends to
@@ -73,6 +74,3 @@ has been an increased focus over the years on paying attention to good security
 practices when writing code, many forget about third-party code. This worries
 me because third-party code represents such a large attack surface open to
 exploits. As we all know, security is only as strong as the weakest link.
-
-[github-repo]: https://github.com/Ayrx/malicious-python-package
-[devpi]: http://doc.devpi.net/latest/
