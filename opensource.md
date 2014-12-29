@@ -25,3 +25,13 @@ server supports and list them in order of priority. It also performs various
 tests that checks things like supported versions of TLS and support for
 TLS-level compression. It is a work in progress but I eventually hope to turn
 tlsenum into a useful tool for auditing TLS configurations.
+
+# python-aead
+
+aead is a Python library I wrote that provides authenticated encryption with
+associated data (AEAD) wrapped up in a simple to use API. It is essentially
+`AES_128_CBC` and `HMAC_SHA_256` composed with an encrypt-then-mac construction
+and relies on PyCA's `cryptography` library for the cryptographic primitives.
+
+See my [blog post]({% post_url 2014-12-29-python-aead %}) about the library for
+more information.
