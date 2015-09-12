@@ -25,3 +25,6 @@ github:
 
 stackexchange:
   profile:        http://security.stackexchange.com/users/10211/terry-chia
+
+gems:
+  - jekyll-feed
