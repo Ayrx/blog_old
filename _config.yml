@@ -9,7 +9,7 @@ permalink:        /:title
 title:            Ayrx's Blog
 tagline:          'Infosec, technology and more'
 description:      'Infosec guy. Python Developer. These are my thoughts.'
-url:              http://ayrx.me
+url:              http://www.ayrx.me
 baseurl:          /
 
 author:
