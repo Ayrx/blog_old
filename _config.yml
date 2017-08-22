@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        /:title
@@ -28,6 +28,7 @@ stackexchange:
 
 gems:
   - jekyll-feed
+  - jekyll-paginate
 
 feed:
   path: atom.xml
