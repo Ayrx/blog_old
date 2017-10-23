@@ -3,16 +3,24 @@ layout: page
 title: About
 ---
 
-Hello! My name is Terry. I go by the handle Ayrx online.
+Hello! My name is Terry. I go by the handle Ayrx online. Here are some of the
+places you can find me at:
 
-I am a 20 year old guy with a strong interest in all things related to
-information security. I am a Python person as well. I hack on a Python
-cryptography library confusingly named
-[Cryptography](https://cryptography.io/en/latest/) during my free time. I also
-hang out on an awesome site called
-[Information Security Stack Exchange](http://security.stackexchange.com/).
-
-Feel free to reach out if you are interested in talking. My email is in the
-sidebar and I'm usually on IRC as well.
-
-Cheers!
+<table>
+    <tr>
+        <td>Email</td>
+        <td>terrycwk1994@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Github</td>
+        <td><a href="https://github.com/Ayrx">github.com/Ayrx</a></td>
+    </tr>
+    <tr>
+        <td>Stackexchange</td>
+        <td><a href="https://security.stackexchange.com/users/10211/terry-chia">security.stackexchange.com/users/10211/terry-chia</a></td>
+    </tr>
+    <tr>
+        <td>LinkedIn</td>
+        <td><a href="https://www.linkedin.com/in/terry-chia-a0160056/">www.linkedin.com/in/terry-chia-a0160056/</a></td>
+    </tr>
+</table>
