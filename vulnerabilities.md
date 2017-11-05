@@ -44,4 +44,20 @@ Once in a while I find security vulnerabilities. Here is a list:
             https://nandynarwhals.org/CVE-2017-15587/
         </a></td>
     </tr>
+    <tr>
+        <td>CVE-2017-16352</td>
+        <td>Graphicsmagick</td>
+        <td>Heap Overflow</td>
+        <td><a href="https://nandynarwhals.org/CVE-2017-16352/">
+            https://nandynarwhals.org/CVE-2017-16352/
+        </a></td>
+    </tr>
+    <tr>
+        <td>CVE-2017-16353</td>
+        <td>Graphicsmagick</td>
+        <td>Infoleak</td>
+        <td><a href="https://nandynarwhals.org/CVE-2017-16353/">
+            https://nandynarwhals.org/CVE-2017-16353/
+        </a></td>
+    </tr>
 </table>
