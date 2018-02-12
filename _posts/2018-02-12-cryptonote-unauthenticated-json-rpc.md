@@ -80,7 +80,7 @@ Turtlecoin has patched the issue by adding authentication in
 
 Aeon has acknowledged the report and is not currently implementing a fix as
 they are in the process of rebasing their code. There is minimal risk to Aeon
-as `simplewallet` in not used in RPC mode for any official clients.
+as `simplewallet` is not used in RPC mode for any official clients.
 
 # Recommended Fix
 
