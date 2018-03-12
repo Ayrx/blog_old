@@ -60,4 +60,20 @@ Once in a while I find security vulnerabilities. Here is a list:
             https://nandynarwhals.org/CVE-2017-16353/
         </a></td>
     </tr>
+    <tr>
+        <td>CVE-2018-1000093</td>
+        <td>CryptoNote</td>
+        <td>Wallet Theft</td>
+        <td><a href="/cryptonote-unauthenticated-json-rpc">
+	    {{ site.url }}/cryptonote-unauthenticated-json-rpc
+        </a></td>
+    </tr>
+    <tr>
+        <td>CVE-2018-7889</td>
+        <td>Calibre E-book Manager</td>
+        <td>Code Execution</td>
+        <td><a href="/CVE-2018-7889">
+	    {{ site.url }}/CVE-2018-7889
+        </a></td>
+    </tr>
 </table>
