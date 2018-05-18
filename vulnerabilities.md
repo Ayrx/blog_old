@@ -76,4 +76,12 @@ Once in a while I find security vulnerabilities. Here is a list:
 	    {{ site.url }}/CVE-2018-7889
         </a></td>
     </tr>
+    <tr>
+        <td>CVE-2018-8015</td>
+        <td>Apache ORC</td>
+        <td>Denial of Service</td>
+        <td><a href="/CVE-2018-8015">
+	    {{ site.url }}/CVE-2018-8015
+        </a></td>
+    </tr>
 </table>
