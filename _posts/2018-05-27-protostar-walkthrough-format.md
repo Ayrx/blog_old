@@ -515,7 +515,7 @@ $1 = (void (*)(void)) 0x80484b4 <hello>
 
 With all that information, we can calculate that the 4 `n`'s we need to supply
 to the `%nu` format string parameters are 126, 208, 128 and 260. If you are
-unsure how to do this, you can go back to format 4's explanation.
+unsure how to do this, you can go back to format 3's explanation.
 
 Putting everything together,
 
